@@ -4,13 +4,13 @@
 h1{
   font-family: 'Kaushan Script', cursive;
 text-align: center;
+color:#FFB100;
 }
-h2{
 
-}
 
 p{
   font-family: 'Playfair Display', serif;
+  color: #003844;
 }
 
 body {
@@ -25,10 +25,38 @@ h1 {
 h2 {
   font-size: 2em;
   margin-bottom: 0.65em;
+  color: #FFB100;
+  text-decoration : none;
 }
 
 
 figcaption {
     font-size: 0.75em;
     font-style: italic;
+}
+
+#main-menu {
+  font-family: 'Playfair Display', serif;
+}
+#contact {
+  color: white;
+}
+
+#about h1{ font-size: 4em;
+}
+
+#about h3{
+  font-family: 'Playfair Display', serif;
+  color: white;
+  font-size: 2em;
+  #fable03 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#contact p {
+  color:white;
+
 }
