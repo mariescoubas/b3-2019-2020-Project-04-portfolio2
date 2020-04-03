@@ -35,7 +35,28 @@ figure {
   background: white;
 }
 
+.project-detail {
+  border: 10px solid #003844;
+  margin: 1em;
+  padding: 1em;
+  background: white;
+}
 
+.project-detail-content{
+display: flex;
+align-items: center;
+
+}
+
+.project-about{
+display: flex;
+align-items: center;
+
+}
+.project-detail-content p{
+flex-basis: 30%;
+
+}
 .photo-feature-container {
   display: flex;
   flex-wrap: wrap;
