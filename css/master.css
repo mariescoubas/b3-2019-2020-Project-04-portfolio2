@@ -187,9 +187,6 @@ figure {
   height: 1200px;
   object-fit: contain;
 }
-#about h2{
-  text
-}
 
 
 #contact .project-feature {
@@ -202,4 +199,16 @@ border: 10px solid white;
 
 #contact p{
   color: white;
+}
+
+#ellios h2{
+  font-size: 3em;
+  text-align: left;
+}
+
+#ellios {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
 }
